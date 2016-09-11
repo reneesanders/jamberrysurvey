@@ -1,0 +1,20 @@
+body {
+	color: white;
+	text-align: center;
+	background-color: #732C65;
+}
+
+.container {
+	background-color: #C62A86;
+	margin-top: 15px;
+	border:30px solid #D982BA;
+	border-radius: 15px;
+	
+}
+a { 
+	color: white;
+ }
+
+ ul{
+ 	list-style: none;
+ }
