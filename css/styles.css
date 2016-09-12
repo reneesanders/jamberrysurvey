@@ -2,24 +2,36 @@ body {
 	color: black;
 	text-align: center;
 	background-color: #732C65;
+
 }
 label {
 	font-size: 30px;
 }
 .container {
+	margin: auto; 
 	color: #732C65;
 	background-color: #D982BA;
-	margin-top: 15px;
 	border:30px solid #C62A86;
 	border-radius: 25px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+
+}	
+
+.describe {
+	float:left;
+
 	
 }
-input {
-	margin-right:15px;
+.hobby {
+	float:right;
+
 
 }
 
-
+.inputbox {
+	margin-bottom: 15px;
+}
 
 a { 
 	color: white;

@@ -58,14 +58,20 @@ echo "
 		<input name='favoriteholiday' type='text'> 
 		</div>
 		
-		<div class='col-sm-6 container'>
+		<div class='col-sm-5 container describe'>
+		<label for='describeyourself'>Three Words To Describe Yourself:</label>
+			<div class='inputbox'>
 			<textarea name='description'cols='20' rows='4'>Describe yourself...
 			</textarea>
+			</div>
 		</div>
 
-		<div class='col-sm-6 container'>
+		<div class='col-sm-5 container hobby'>
+		<label for='hobbies'>Three Of Your Favorite Hobbies:</label>
+			<div class='inputbox'>
 			<textarea name='hobbies' cols='20' rows='4'> List your hobbies...
 			</textarea>
+			</div>
 		</div>
 	</div>
 	
